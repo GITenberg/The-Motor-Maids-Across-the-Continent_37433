@@ -1,0 +1,28 @@
+_repo: The-Motor-Maids-Across-the-Continent_37433
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stokes, Katherine
+    gutenberg_agent_id: '5049'
+    url: http://www.gutenberg.org/2009/agents/5049
+description: ''
+gutenberg_issued: '2011-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37433'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Automobiles -- History -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Salt Lake City (Utah) -- Description and travel -- Juvenile fiction'
+- !lcsh 'Rocky Mountains -- Description and travel -- Juvenile fiction'
+- !lcsh 'San Francisco (Calif.) -- Description and travel -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+title: The Motor Maids Across the Continent
+url: http://www.gutenberg.org/ebooks/37433
